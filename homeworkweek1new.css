@@ -1,0 +1,43 @@
+h1 {
+    font-family: cursive;
+    font-size: 40px;
+    color:palevioletred;
+    background-color: azure;
+    text-align:center;
+}
+h2 {
+    font-family: cursive;
+    font-size:25px; 
+    color:rgb(120, 58, 179);
+    background-color: aliceblue;
+    text-align:center;
+    margin-left: 300px !important;
+}
+body {
+    color:black;
+background-color: antiquewhite;
+opacity:1;
+line-height:2;
+}
+p{
+    font-family:cursive;
+    text-align:left;
+    font-size: 20px;
+    margin-left: 30PX;
+}
+ul{
+    font-family: cursive;
+    font-size:18px; 
+    margin-left: 50px;
+}
+#face {
+    border:6px ridge rgb(70, 212, 101);
+    float:left;
+    width: 200px;
+    text-align: center;
+    margin-right: 30px;
+}
+#about {
+    text-align: center;
+
+}
